@@ -3,15 +3,24 @@
 - 🍻 I’m currently a graduate student at UIUC, major in _computer and information science_
 - ⚡ Full-Stack Development | Data Analysis 
   
-### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=python&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-47A248?style=flat-square&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-47A248?style=flat-square&logo=django&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-47A248?style=flat-square&logo=springboot&logoColor=white)
+<h3> 🛠 &nbsp;Tech Stack</h3>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![R]()
+- 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vuejs-333333?style=flat-square&logo=vue)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+- 🔧 &nbsp;
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  
 
 <!--![WeiruSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiruSun)>
 
