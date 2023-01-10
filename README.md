@@ -7,7 +7,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![R]()
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=007396)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -16,11 +16,11 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
 - 🔧 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
   
+<br/>
 
 <!--![WeiruSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiruSun)>
 
