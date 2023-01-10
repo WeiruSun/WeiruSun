@@ -11,7 +11,7 @@
 #### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![vue](https://img.shields.io/badge/-Vue-339933?style=flat-square&logo=Vue&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-47A248?style=flat-square&logo=mysql&logoColor=white)
