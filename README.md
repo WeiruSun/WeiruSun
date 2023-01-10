@@ -9,17 +9,14 @@
   
   
 #### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-![vue](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png)
+![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=python&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![vue](https://img.shields.io/badge/-Vue-339933?style=flat-square&logo=Vue&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-47A248?style=flat-square&logo=mysql&logoColor=white)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+![Django](https://img.shields.io/badge/-Django-47A248?style=flat-square&logo=django&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-47A248?style=flat-square&logo=springboot&logoColor=white)
 
 <!--![WeiruSun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WeiruSun)>
 
