@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Weiru Sun👋
+
+- 🍻 I’m currently a graduate student at UIUC, major in _computer and information science_
+- ⚡ Python/Java.
 
 <!--
 **WeiruSun/WeiruSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
