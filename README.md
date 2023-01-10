@@ -1,14 +1,9 @@
 ### Hi there, I'm Weiru Sun👋
 
 - 🍻 I’m currently a graduate student at UIUC, major in _computer and information science_
-- ⚡ **Learning :** Full-Stack Development :zap: | Data Analysis :zap:
-- 
-- 📫 How to reach me: 
-<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+- ⚡ Full-Stack Development | Data Analysis 
   
-  
-#### Languages and Tools
+### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-339933?style=flat-square&logo=python&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
