@@ -1,6 +1,6 @@
 ### Hi there, I'm Weiru Sun👋
 
-- 🍻 I’m currently a graduate student at UIUC, major in _computer and information science_
+- 🍻 Graduated from UIUC, major in _computer and information science_
 - ⚡ Full-Stack Development | Data Analysis 
   
 <h3> 🛠 &nbsp;Tech Stack</h3>
